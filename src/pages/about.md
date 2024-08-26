@@ -3,30 +3,13 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+This site was created by individuals with Stargardt disease to help others facing the same challenge. Many have navigated this condition and emerged with valuable knowledge, tips, and wisdom. By sharing this insight, we hope to make your experience with Stargardt disease a little easier. Best of luck.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## Contact
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+This site is designed to be accessible, screen reader-friendly, and mobile-friendly. If you notice any errors, encounter technical issues, or wish to submit content, please send your message via this [email](mailto:contact@satnaing.dev).
 
-## Tech Stack
+## Resources
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- [Stargardt YouTuber reviews accessibility tools](https://www.youtube.com/@theblindlife?si=WOq1vr-nuA9smXBM)
+- [Two blind brothers video series on how to live with Stargardt disease](https://www.didit.org/courses/bradford-manning-teaches-stargardt-disease)
