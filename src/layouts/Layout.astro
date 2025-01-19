@@ -135,5 +135,17 @@ const structuredData = {
   </head>
   <body>
     <slot />
+    <script
+      is:inline
+      src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"
+      data-astro-rerun></script>
+    <script is:inline data-astro-rerun>
+      kofiWidgetOverlay.draw("stargardt", {
+        type: "floating-chat",
+        "floating-chat.donateButton.text": "Support me",
+        "floating-chat.donateButton.background-color": "#00b9fe",
+        "floating-chat.donateButton.text-color": "#fff",
+      });
+    </script>
   </body>
 </html>
