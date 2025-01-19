@@ -9,8 +9,6 @@ As someone living with Stargardt disease, my goal with this site is to support o
 
 If you'd like to support this site you can [donate through the ko-fi app.](https://ko-fi.com/stargardt)
 
-
 ## Contact
 
 This site is designed to be accessible, screen reader-friendly, and mobile-friendly. If you notice any errors, encounter technical issues, or wish to submit content, please send your message via the contact form below.
-
