@@ -4,6 +4,9 @@ module.exports = {
     es2022: true,
     browser: true,
   },
+  globals: {
+    kofiWidgetOverlay: "readonly", // Declare 'kofiWidgetOverlay' as a global variable
+  },
   extends: ["eslint:recommended", "plugin:astro/recommended"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
